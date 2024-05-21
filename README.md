@@ -15,7 +15,7 @@ Criando um Ebook com ChatGPT &amp; ~MidJourney~: Criador de imagens do Microsoft
 
 <p align="center">
 <img 
-    src="./assets/OIG1.jpeg"
+    src="./assets/OIG1.png"
     width="400"  
 />
 </p>
